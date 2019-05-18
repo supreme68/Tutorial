@@ -1,2 +1,2 @@
 # Tutorial
-just a simple tutorial
+A simple tutorial that contains projects for exercies in JavaScript and Python
