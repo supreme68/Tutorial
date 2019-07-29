@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d81a054f-d1ae-40a4-9dbc-e5b7b2c86ec1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Javascript/JavaScript-Intorduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/JavaScript-Intorduction.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Javascript/JavaScript-Intorduction.md" beforeDir="false" afterPath="$PROJECT_DIR$/Javascript/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +17,11 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Javascript/JavaScript-Intorduction.md">
+        <entry file="file://$PROJECT_DIR$/Javascript/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="1065">
-                <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+              <first_editor relative-caret-position="1640">
+                <caret line="82" selection-start-line="82" selection-end-line="82" />
               </first_editor>
               <second_editor />
             </state>
@@ -113,12 +113,6 @@
               <item name="~/Projects/Tutorial" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="Javascript" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
-            <path>
-              <item name="Tutorial" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="~/Projects/Tutorial" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="Javascript" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="images" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -155,12 +149,12 @@
       <option name="presentableId" value="Default" />
       <updated>1564326214961</updated>
       <workItem from="1564326216148" duration="3603000" />
-      <workItem from="1564413506411" duration="1945000" />
+      <workItem from="1564413506411" duration="2028000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5548000" />
+    <option name="totallyTimeSpent" value="5631000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -175,7 +169,7 @@
     <frame x="3084" y="24" width="1396" height="1416" extended-state="4" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.034814816" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23037037" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -239,11 +233,11 @@
     <entry file="file://$PROJECT_DIR$/Javascript/images/array.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Javascript/JavaScript-Intorduction.md">
+    <entry file="file://$PROJECT_DIR$/Javascript/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1065">
-            <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
+          <first_editor relative-caret-position="1640">
+            <caret line="82" selection-start-line="82" selection-end-line="82" />
           </first_editor>
           <second_editor />
         </state>
