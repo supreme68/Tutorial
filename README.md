@@ -1,2 +1,2 @@
 # Tutorial
-A simple tutorial that contains projects for exercies in JavaScript and Python
+Tutorial е проект,който садържа в себе си задачи и кракто описание на програмните езици Python и JavaScript.
