@@ -1,6 +1,6 @@
-# Първи стъпки в JavaScript
+# Първи стъпки в Python
 
-![JsLogo](images/jsLogo.png)
+![PytonLogo](images/python-logo.png)
 
 
 #### Ключови думи
